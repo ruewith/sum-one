@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Иван Иванович",
+      "login": "first_login",
+      "password": "pass1"
+    },
+    {
+      "id": 2,
+      "name": "Пётр Петрович",
+      "login": "second_login",
+      "password": "pass2"
+    },
+    {
+      "id": 3,
+      "name": "Сидор Федорович",
+      "login": "third_login",
+      "password": "pass3"
+    }
+  ]
+}
